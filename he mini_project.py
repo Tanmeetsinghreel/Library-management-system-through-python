@@ -44,6 +44,7 @@ if __name__ == '__main__':
         print("3. Add a Book\n")
         print("4. Return a Book\n")
         user_choice = int(input())
+        #below code is optional:-
         # if user_choice not in ['1','2','3','4']:
         #     print("Please enter a valid option\n")
         #     continue
